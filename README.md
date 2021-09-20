@@ -12,9 +12,9 @@ If **.deb**:
 Double click on the .deb file to install. You may also run:
 - `sudo apt install ./appname.deb`
 - `sudo apt-get install ./appname.deb`
-- `sudo dpkg -i appname.deb`
+- `sudo dpkg -i appname.deb`  
 If **.rpm**:
-Run `sudo rpm install filename.rpm`
+Run `sudo rpm install filename.rpm`  
 If **AppImage, x86, x86_64, or any other executable**:
 Make file executable in file manager and double click on it or:
 1. Run `chmod +x filename.appimage`
