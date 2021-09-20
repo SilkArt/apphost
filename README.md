@@ -18,8 +18,8 @@ Run `sudo rpm install filename.rpm`
 If **AppImage, x86, x86_64, or any other executable**:
 Make file executable in file manager and double click on it or:
 1. Run `chmod +x filename.appimage`
-2. Run `./filename.appimage`
+2. Run `./filename.appimage`  
 You may require admin priviliges to install the app.
 Hope you enjoy my project and share it with others!
 SilkArt, project creator, owner, and maintainer
-P.S. If you would like to contribute drop me an email at [matthewwangrblx@gmail.com](mailto:matthewwangrblx@gmail.com&Subject=I+would+like+to+contribute+to+AppHost)
+P.S. If you would like to contribute drop me an email at [matthewwangrblx@gmail.com](mailto:matthewwangrblx@gmail.com?subject=I+would+like+to+contribute+to+AppHost&body=Hi%20SilkArt%20I%20would%20like%20to%20become%20a%20contributor)
