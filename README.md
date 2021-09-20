@@ -4,10 +4,10 @@ A hosting service for useful apps. I don't own any of these apps, I just find th
 ## How to install apps
 On Windows, simply click on the file and download it. Run the .exe installer to install it. Or you may use the Command Prompt or PowerShell:  
 `appname.exe`  
-You may require admin priviliges to install the app.
+You may require admin priviliges to install the app.  
 On Mac, simply click on the file and download it. Extract the .dmg file and double click the .app or .pkg file to install or drag the .app file to the Applications folder.
-You may require admin priviliges to install the app.
-On Linux, simply click on the file and download it.
+You may require admin priviliges to install the app.  
+On Linux, simply click on the file and download it.  
 If **.deb**:
 Double click on the .deb file to install. You may also run:
 - `sudo apt install ./appname.deb`
